@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "シリウス",
+  "base_artist": "sumika",
+  "createdAt": "2025-12-04T11:53:59.659499Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シリウス",
+      "artist": "Eir Aoi",
+      "has_synced": true,
+      "path": "select/01_シリウス_Eir_Aoi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sirius [シリウス]",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/02_Sirius_[シリウス]_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シリウス",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/03_シリウス_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "シリウス(TV Size ver.)",
+      "artist": "Eir Aoi",
+      "has_synced": false,
+      "path": "select/04_シリウス(TV_Size_ver.)_Eir_Aoi.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "シリウス",
+      "artist": "Eir Aoi",
+      "has_synced": true,
+      "path": "select/05_シリウス_Eir_Aoi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "シリウス",
+      "artist": "藍井エイル",
+      "has_synced": true,
+      "path": "select/06_シリウス_藍井エイル.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "シリウス",
+      "artist": "飯田里穂",
+      "has_synced": true,
+      "path": "select/07_シリウス_飯田里穂.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "シリウス",
+      "artist": "岸田教団&THE明星ロケッツ",
+      "has_synced": true,
+      "path": "select/08_シリウス_岸田教団&THE明星ロケッツ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "シリウス",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/09_シリウス_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "シリウス",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/10_シリウス_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "SIRIUS/シリウス",
+      "artist": "Eir Aoi",
+      "has_synced": true,
+      "path": "select/11_SIRIUS_シリウス_Eir_Aoi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "シリウス",
+      "artist": "Eir Aoi",
+      "has_synced": true,
+      "path": "select/12_シリウス_Eir_Aoi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "シリウス",
+      "artist": "ねごと",
+      "has_synced": false,
+      "path": "select/13_シリウス_ねごと.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "シリウス",
+      "artist": "藍井エイル",
+      "has_synced": false,
+      "path": "select/14_シリウス_藍井エイル.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "シリウス",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/15_シリウス_UVERworld.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "シリウス",
+      "artist": "Kishida Kyoudan & The Akeboshi Rockets",
+      "has_synced": true,
+      "path": "select/16_シリウス_Kishida_Kyoudan_&_The_Akeboshi_Rockets.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シリウス",
+      "artist": "sumika",
+      "has_synced": false,
+      "path": "select/pl_01_シリウス_sumika.txt"
+    }
+  ]
+}
